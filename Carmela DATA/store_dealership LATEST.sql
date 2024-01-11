@@ -1,0 +1,10 @@
+insert into store_dealership (id, dealership_name, address, ratings, contact) values (1, 'Batz-Breitenberg Motors', 'Apt 440', 4, '4631559811');
+insert into store_dealership (id, dealership_name, address, ratings, contact) values (2, 'Pfeffer LLC Motors', 'PO Box 73068', 4, '9498169601');
+insert into store_dealership (id, dealership_name, address, ratings, contact) values (3, 'Torphy, Mayert and Daugherty Motors', 'PO Box 40021', 4, '1102965197');
+insert into store_dealership (id, dealership_name, address, ratings, contact) values (4, 'Prohaska Group Motors', 'Suite 20', 2, '3698674252');
+insert into store_dealership (id, dealership_name, address, ratings, contact) values (5, 'Abbott and Sons Motors', '10th Floor', 3, '1907596071');
+insert into store_dealership (id, dealership_name, address, ratings, contact) values (6, 'Heathcote, Deckow and Klocko Motors', 'Apt 1983', 3, '7207058514');
+insert into store_dealership (id, dealership_name, address, ratings, contact) values (7, 'Feeney-Wolff Motors', 'Room 1842', 2, '9944677752');
+insert into store_dealership (id, dealership_name, address, ratings, contact) values (8, 'Champlin, Schiller and Daniel Motors', 'PO Box 67427', 2, '5091585897');
+insert into store_dealership (id, dealership_name, address, ratings, contact) values (9, 'Boyer Inc Motors', 'Suite 50', 5, '1117825974');
+insert into store_dealership (id, dealership_name, address, ratings, contact) values (10, 'Willms-Strosin Motors', 'Room 1405', 3, '3103493732');
